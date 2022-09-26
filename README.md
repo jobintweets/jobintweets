@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on **Chess Champions**
 
+- 🌱 I’m currently learning **Prisma**
+
+- 💬 Ask me about **react , angular , java script , ionic**
+
 - 📫 How to reach me **jobintweets@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
