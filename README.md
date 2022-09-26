@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Prisma**
 
+- 🤝I have developed [Ezcredits](https://www.ezcredits.net/)
+
 - 💬 Ask me about **react , angular , java script , ionic**
 
 - 📫 How to reach me **jobintweets@gmail.com**
